@@ -2,7 +2,7 @@ import requests
 
 # === данные ===
 api_key = (
-    "xTNb88MQhhYJDjnMAr4CH-p3Bsey+6+onFcNfBHyCViYAvN0hid7WuFU6tfcyeUu"
+    "ВАШ_API_KEY"
 )
 project_id = (
     "3acc4493-031b-4488-8e35-8ebbd3695e9a"

@@ -2,7 +2,7 @@ import requests
 
 # === данные ===
 api_key = (
-    "xTNb88MQhhYJDjnMAr4CH-p3Bsey+6+onFcNfBHyCViYAvN0hid7WuFU6tfcyeUu"
+    "ВАШ_API_KEY"
 )
 
 # сюда вставьте свой рабочий ключ

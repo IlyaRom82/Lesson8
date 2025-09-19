@@ -2,7 +2,7 @@ import requests
 
 # === данные ===
 api_key = (
-    "xTNb88MQhhYJDjnMAr4CH-p3Bsey+6+onFcNfBHyCViYAvN0hid7WuFU6tfcyeUu"
+    "ВАШ_API_KEY"
 )
 key_id = (
     "+hur0bipxX2K9h2umRCTb4klwqh-fbl-DuO605Bewj0dvRARQ7fttC8Q25C0glae"
