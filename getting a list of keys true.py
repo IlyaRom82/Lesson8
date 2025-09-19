@@ -1,3 +1,4 @@
+# Создаём заголовки для запроса
 import requests
 
 url = "https://ru.yougile.com/api-v2/auth/keys/get"
